@@ -5,3 +5,6 @@
 #Пока только одному игроку.
 
 print('Создание колоды карт')
+dictionary_of_cards = {'Ace' : 11, 'King' : 10}
+for i in dictionary_of_cards:
+    print(i)
